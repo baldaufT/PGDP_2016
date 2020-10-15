@@ -1,2 +1,2 @@
-# TUM_Projekte
-Programmierungen in der Uni
+# Programmierpraktikum der TU München 
+abgeschlossen mit 1,0
