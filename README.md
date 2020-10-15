@@ -1,2 +1,2 @@
-# Programmierpraktikum der TU München 
-abgeschlossen mit 1,0
+# Programmierpraktikum der TU München in Java
+- abgeschlossen mit 1,0
